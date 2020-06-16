@@ -1,2 +1,2 @@
 # sba-theme
- Thème Wordpress du Stade Bagnérais Athlétisme
+ Wordpress theme created from the underscores.me theme for the graphic redesign of the Bagnères athletics club website.

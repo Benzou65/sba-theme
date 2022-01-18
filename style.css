@@ -1086,7 +1086,8 @@ a:hover {
   color: black;
 }
 
-.main-navigation li a:hover {
+.main-navigation li a:hover,
+.main-navigation li a:focus {
   border: 3px solid rgb(255, 255, 255);
 }
 
@@ -1237,6 +1238,11 @@ h2.widget-title {
 }
 h2.widget-footer-title {
   color: white;
+}
+ul,
+ol {
+  margin: 0 0 0 0;
+  padding-left: 1em;
 }
 
 /* CONTENT-SIDEBAR */
